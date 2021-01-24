@@ -16,5 +16,15 @@ The recommendation system in this notebook is based on the IMDb rating system. I
 <br>
 ![image](https://user-images.githubusercontent.com/36665975/70388481-6072fb80-19d8-11ea-9162-9fbbabd700ab.png)
 
+## DataSet
 Dataset Used - Web Series: Ultimate Collection[[Download Dataset](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition/download)]
+
+## Resources Used
+* **Jupyter**
+* **Python-3.8.2**
+* **Numpy-1.16.4**
+* **Pandas-0.24.2**
+* **Matplotlib-3.1.0**
+* **Seaborn-0.9.0**
+* **Sklearn-0.21.2**
 
