@@ -4,7 +4,7 @@ Recommender system becomes very popular and has important role in an information
 
 The recommendation system in this notebook is based on the IMDb rating system. IMDb had a special equation that weighs the votes.
 
-**Formula Used**
+**Formula Used**<br>
 ![image](https://user-images.githubusercontent.com/36665975/70388481-6072fb80-19d8-11ea-9162-9fbbabd700ab.png)
 
 Dataset Used - Web Series: Ultimate Collection[[Download Dataset](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition/download)]
