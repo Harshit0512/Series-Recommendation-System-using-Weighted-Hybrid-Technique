@@ -6,4 +6,4 @@ The recommendation system in this notebook is based on the IMDb rating system. I
 
 ![image](https://user-images.githubusercontent.com/36665975/70388481-6072fb80-19d8-11ea-9162-9fbbabd700ab.png)
 
-Dataset Used: [Web Series: Ultimate Collection](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition)
+Dataset Used: [Web Series: Ultimate Collection](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition/download)
