@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.9.0-fcba03)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.1.0-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-darkorange)
-![Sklearn](https://img.shields.io/badge/Sklearn-0.21.2-violet)
+![Sklearn](https://img.shields.io/badge/Sklearn-0.21.2-darkviolet)
 
 Recommender system becomes very popular and has important role in an information system or webpages nowadays. A recommender system tries to make a prediction of which item a user may like based on his activity on the system.
 
