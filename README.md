@@ -19,7 +19,7 @@ The recommendation system in this notebook is based on the IMDb rating system. I
 ## DataSet
 Dataset Used - [[Web Series: Ultimate Collection](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition)]
 
-Download Used - [[Download Dataset](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition/download)]
+Download Data - [[Download Dataset](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition/download)]
 
 ## Resources Used
 * **Jupyter**
