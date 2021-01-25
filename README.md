@@ -80,5 +80,6 @@ The recommended series for you:-<br>
 
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/example.png" /><br>
 
-* If you searching for a series and it is not present in dataset then you will get message "**This series is not in our data...**"
-"**Search for another series.**"
+* If you searching for a series and it is not present in dataset then you will get message:- <br>
+
+<img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/series_not_there.png" /><br>
