@@ -40,3 +40,23 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * **Description** - Synopsis of the title
 * **No of Seasons** - Total no of seasons
 * **Streaming Platform** - Streaming service currently streaming on
+
+## Data Cleaning
+* Added **Series ID** into the dataset.
+* Replacing all **nan** values with **unknown**.
+* Extracting the number from string in column **No of Seasons**.
+* Giving the proper name to the columns.
+* Making **Series Title** into lowercase and use strip() to remove extra spaces.
+
+* After applying formula we add column called **score** in the dataset.(score column has value which we computed for different series)
+
+* Created new DataFrame having features listed below.
+
+## Feature Selected 
+* Series_Title
+* score
+* Content_Rating
+* IMDB_Rating
+* Genre
+* No_of_Seasons
+* Streaming_Platform
