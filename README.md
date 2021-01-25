@@ -62,4 +62,5 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * Streaming_Platform
 
 ## Data Visualization
-* <img  alt="PNG" width="400px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Saved%20Images/best_popular_series_by_imdb.png" />
+* Popular Series with respect to IMDB Rating
+<img  alt="PNG" width="400px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Saved%20Images/best_popular_series_by_imdb.png" />
