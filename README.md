@@ -14,7 +14,7 @@ The recommendation system in this notebook is based on the IMDb rating system. I
 
 **Formula Used-**<br>
 <br>
-![image](https://user-images.githubusercontent.com/36665975/70388481-6072fb80-19d8-11ea-9162-9fbbabd700ab.png)
+<img  alt="PNG" width="500px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/formula%20of%20weighted%20average.png" /><br>
 * This is a type of **collaborative filtering recommender systems**.
 ## DataSet
 Dataset Used from Kaggle - [Web Series: Ultimate Collection](https://www.kaggle.com/amritvirsinghx/web-series-ultimate-edition)
