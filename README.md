@@ -30,3 +30,13 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * **Seaborn-0.9.0**
 * **Sklearn-0.21.2**
 
+## Data
+* **Series Title** - Name of the TV Series
+* **Year Released** - Released Year of TV Series
+* **Content Rating** - PG Rating of Content
+* **IMDB Rating** - Rating from IMDB Site
+* **R Rating** - Rotton Tomato Rating
+* **Genre** - Genre of the TV Show
+* **Description** - Synopsis of the title
+* **No of Seasons** - Total no of seasons
+* **Streaming Platform** - Streaming service currently streaming on
