@@ -74,3 +74,7 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * **Best Series with respect to the calculated score**<br>
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/best_shows_by_scores.png" /><br>
 
+## Output
+**Example** - If you go with **Stranger Things**
+The recommended series for you;-
+<img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/example.png" /><br>
