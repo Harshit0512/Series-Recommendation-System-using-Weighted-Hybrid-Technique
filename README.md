@@ -41,7 +41,7 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * **No of Seasons** - Total no of seasons
 * **Streaming Platform** - Streaming service currently streaming on
 
-## Data Cleaning
+## Data Cleaning and EDA
 * Added **Series ID** into the dataset.
 * Replacing all **nan** values with **unknown**.
 * Extracting the number from string in column **No of Seasons**.
@@ -60,3 +60,6 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 * Genre
 * No_of_Seasons
 * Streaming_Platform
+
+## Data Visualization
+* <img  alt="PNG" width="400px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Saved%20Images/best_popular_series_by_imdb.png" />
