@@ -64,7 +64,13 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 ## Data Visualization
 * **Popular Series with respect to IMDB Rating**<br>
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/popular_by_imdb_rating.png" /><br>
+
 * **Popular Series with respect to Rotten Tomatoes Rating**<br>
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/popular_by_rotten_tomatoes.png" /><br>
-* **Best Series with respect to the weighted Hybrid Technique**<br>
+
+* **Best Series with respect to the weighted Average**<br>
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/best_series.png" /><br>
+
+* **Best Series with respect to the calculated score**<br>
+<img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/best_shows_by_scores.png" /><br>
+
