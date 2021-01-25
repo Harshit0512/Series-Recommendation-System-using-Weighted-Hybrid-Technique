@@ -78,3 +78,6 @@ Download Data - [Download Dataset](https://www.kaggle.com/amritvirsinghx/web-ser
 **Example** - If you go with **Stranger Things**
 The recommended series for you;-
 <img  alt="PNG" width="700px" src="https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique/blob/main/Images/example.png" /><br>
+
+* If you find for a series and it is not in dataset then you will get message "**This series is not in our data...**"
+**Search for another series.**
